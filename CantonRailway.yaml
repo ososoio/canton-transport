@@ -1,76 +1,83 @@
 # 火車站
 #
 # 特等站
-廣州站
-廣州南站
-廣州東站
-江村站
+廣州站	gwong2 zau1 zaam6
+廣州南站	gwong2 zau1 naam4 zaam6
+廣州東站	gwong2 zau1 dung1 zaam6
+江村站	gong1 cyun1 zaam6
 
 
 # 二等站
-大朗站
-廣州北站
-廣州西站
-黃埔站
-棠溪站
-石圍塘站
+大朗站	daai6 long5 zaam6
+廣州北站	gwong2 zau1 bak1 zaam6
+廣州西站	gwong2 zau1 sai1 zaam6
+黃埔站	wong4 bou3 zaam6
+棠溪站	tong4 kai1 zaam6
+石圍塘站	sek6 wai4 tong4 zaam6
+
 
 # 三等站
-天河東站
-石牌站
-下元站
-慶盛站
+天河東站	tin1 ho4 dung1 zaam6
+石牌站	sek6 paai4 zaam6
+下元站	haa6 jyun4 zaam6
+慶盛站	hing3 sing6 zaam6
+
 
 # 四等站
-郭塘站
-江高鎮站
-軍田站
-長崗站
-石灘站
-仙村站
-新塘站
+郭塘站	gwok3 tong4 zaam6
+江高鎮站	gong1 gou1 zan3 zaam6
+軍田站	gwan1 tin4 zaam6
+長崗站	coeng4 gong1 zaam6
+石灘站	sek6 taan1 zaam6
+仙村站	sin1 cyun1 zaam6
+新塘站	san1 tong4 zaam6
+
 
 # 未定等
-大田站
-新塘南站
+大田站	daai6 tin4 zaam6
+新塘南站	san1 tong4 naam4 zaam6
+
 
 # 建設或規劃中
-增城南站
-從化站
-南沙站
-太和站
+增城南站	zang1 sing4 naam4 zaam6
+從化站	cung4 faa3 zaam6
+南沙站	naam4 saa1 zaam6
+太和站	taai3 wo4 zaam6
+
 
 # 已停用
-大沙頭站
-舊廣州南站
-紅海站
-小坪站
-雲麓站
-南崗站
-沙浦站
-塘美站
-永村站
+大沙頭站	daai6 saa1 tau4 zaam6
+舊廣州南站	gau6 gwong2 zau1 naam4 zaam6
+紅海站	hung4 hoi2 zaam6
+小坪站	siu2 ping4 zaam6
+雲麓站	wan4 luk1 zaam6
+南崗站	naam4 gong1 zaam6
+沙浦站	saa1 pou2 zaam6
+塘美站	tong4 mei5 zaam6
+永村站	wing5 cyun1 zaam6
 
 
 # 線路
 #
 # 高速鐵路
-京廣高鐵
-廣深港高鐵
-南廣鐵路
-貴廣鐵路
-廣汕鐵路
-廣湛客運專線
+京廣高鐵	ging1 gwong2 gou1 tit3
+廣深港高鐵	gwong2 sam1 gong2 gou1 tit3
+南廣鐵路	naam4 gwong2 tit3 lou6
+貴廣鐵路	gwai3 gwong2 tit3 lou6
+廣汕鐵路	gwong2 saan3 tit3 lou6
+廣湛客運專線	gwong2 taam4 haak3 wan6 zyun1 sin3
+
 
 # 普速鐵路
-京廣鐵路
-廣深鐵路
-廣茂鐵路
-廣梅汕鐵路
-廣珠鐵路
+京廣鐵路	ging1 gwong2 tit3 lou6
+廣深鐵路	gwong2 sam1 tit3 lou6
+廣茂鐵路	gwong2 mau6 tit3 lou6
+廣梅汕鐵路	gwong2 mui4 saan3 tit3 lou6
+廣珠鐵路	gwong2 zyu1 tit3 lou6
+
 
 # 城際鐵路
-廣珠城際鐵路
-廣佛肇城際鐵路
-穗深城際鐵路
-廣清城際軌道交通
+廣珠城際鐵路	gwong2 zyu1 sing4 zai3 tit3 lou6
+廣佛肇城際鐵路	gwong2 fat6 siu6 sing4 zai3 tit3 lou6
+穗深城際鐵路	seoi6 sam1 sing4 zai3 tit3 lou6
+廣清城際軌道交通	gwong2 cing1 sing4 zai3 gwai2 dou6 gaau1 tung1
